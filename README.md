@@ -1,1 +1,1 @@
-# hairlifelab.co
+# hairlifelab
